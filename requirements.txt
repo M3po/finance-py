@@ -6,4 +6,4 @@ gevent
 falcon-swagger-ui
 pytest
 pyyaml
-yfinance==0.1.70
+yfinance
